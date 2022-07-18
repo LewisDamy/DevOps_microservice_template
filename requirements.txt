@@ -1,0 +1,10 @@
+# the logic libraries
+
+
+#### test & tools libs ####
+pytest 
+pytest-cov 
+pylint 
+black # formating tool
+fire #create cli tool for py-funct
+
